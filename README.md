@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425>
+  <img src = "https://github-readme-stats-liard-three.vercel.app
+/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425>
+  <img src = "https://github-readme-streak-stats-seb.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425>
 </p>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/>
+<img src="https://github-readme-stats-liard-three.vercel.app
+/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/>
 </p>
 <h2 align = "center">
     I use (or have used) these packages, programs, IDEs, and other CS-related tools:
