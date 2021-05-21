@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=rgb(112, 255, 255)"/>
+    <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=70ffff"/>
     <img src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
