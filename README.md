@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=tokyonight&count_private=true" width = 500>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=buefy-dark" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=tokyonight&count_private=true" width = 425>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=buefy-dark" width = 425>
 </p>
 </br>
 <h2>
