@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
 <p align = "center">
-  <img src = "https://github-readme-stats-qgbba9qh6-boccca2014.vercel.app
+  <img src = "https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app
 /api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425>
   <img src = "https://github-readme-streak-stats-seb.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425>
 </p>
 <p align = "center">
-<img src="https://github-readme-stats-qgbba9qh6-boccca2014.vercel.app
+<img src="https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app
 /api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/>
 </p>
 <h2 align = "center">
