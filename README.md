@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-0e1112?style=flat-square&logo=IntelliJ-idea&logoColor=white"/>
 </p>
-<p style="font-size:4vw">
+<p style="font-size:20px">
     You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
 </p>
 
