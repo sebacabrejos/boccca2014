@@ -3,27 +3,51 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425>
 </p>
-<h2>
-    Here are some packages, programs, IDEs, and other CS-related products I use:
-</h2>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/>
 </p>
+<h2 align = "center">
+    I use (or have used) these packages, programs, IDEs, and other CS-related tools:
+</h2>
+<h3 align = "center">
+    Languages/Frameworks:
+</h3>
 <p align = "center">
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C-white?style=flat-square&logo=C&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/-C++-white?style=flat-square&logo=c%2B%2B&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-Javascript-fcdc00?style=flat-square&logo=Javascript&logoColor=000000"/>
     <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=70ffff"/>
     <img src="https://img.shields.io/badge/-Django-0C4B33?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=Python&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-php-8892BF?style=flat-square&logo=PHP&logoColor=4F5B93"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+</p>
+<h3 align = "center">
+    Packages:
+</h3>
+<p align = "center">
     <img src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+</p>
+<h3 align = "center">
+    IDEs:
+</h3>
+<p align = "center">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-0e1112?style=flat-square&logo=IntelliJ-idea&logoColor=white"/>
+</p>
+<h3 align = "center">
+    Other CS Tools:
+</h3>
+<p align = "center">
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 <h3 align = "center">
     You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
