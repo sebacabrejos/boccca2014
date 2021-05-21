@@ -6,8 +6,10 @@
 <h2>
     Here are some packages, programs, IDEs, and other CS-related products I use:
 </h2>
+<p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/>
-<p>
+</p>
+<p align = "center">
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
@@ -23,7 +25,7 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-0e1112?style=flat-square&logo=IntelliJ-idea&logoColor=white"/>
 </p>
-<h3>
+<h3 align = "center">
     You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
 </h3>
 
