@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=dark&hide_border=true" width = 400>
 </p>
 </br>
-<br>
 <p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -52,9 +51,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/> -->
 </p>
-</br>
-<br>
-<p>
+<h2>
     You can learn more about my work at my ➡️ <a href="https://sebastiancabrejos.com">Personal Site</a>!
-</p>
-</br>
+</h2>
