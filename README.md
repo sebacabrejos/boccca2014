@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
+<h3 align = "center">
+    You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
+</h3>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425>
@@ -52,9 +55,6 @@
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
-<h3 align = "center">
-    You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
-</h3>
 
 
 <!-- ### Hi there 👋 -->
