@@ -10,10 +10,10 @@
 <!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange -->
 </p>
 <h2 align = "center">
-    Tools I Use:
+    Tools I Use
 </h2>
 <h3 align = "center">
-    Languages/Frameworks:
+    Languages/Frameworks
 </h3>
 <p align = "center">
     <img src="https://img.shields.io/badge/-C-white?style=flat-square&logo=C&logoColor=blue"/>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
 </p>
 <h3 align = "center">
-    Packages:
+    Packages
 </h3>
 <p align = "center">
     <img src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/>
@@ -38,14 +38,14 @@
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
 </p>
 <h3 align = "center">
-    IDEs:
+    IDEs
 </h3>
 <p align = "center">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-0e1112?style=flat-square&logo=IntelliJ-idea&logoColor=white"/>
 </p>
 <h3 align = "center">
-    Other CS Tools:
+    Other CS Tools
 </h3>
 <p align = "center">
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
