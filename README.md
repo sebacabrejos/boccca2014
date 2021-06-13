@@ -13,7 +13,7 @@
 <!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange -->
 </p>
 <h2 align = "center">
-    Tools I Use
+    CS Tools
 </h2>
 <h3 align = "center">
     Languages/Frameworks
