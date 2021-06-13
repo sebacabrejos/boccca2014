@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
-<h3 align = "center">
+<h2 align = "center">
     You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
-</h3>
+</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425>
