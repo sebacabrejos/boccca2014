@@ -10,7 +10,7 @@
 <!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange -->
 </p>
 <h2 align = "center">
-    I use (or have used) these packages, programs, IDEs, and other CS-related tools:
+    Tools I Use:
 </h2>
 <h3 align = "center">
     Languages/Frameworks:
