@@ -9,7 +9,7 @@
 <!-- https://github-readme-streak-stats-seb.herokuapp.com?user=boccca2014&theme=blood-dark -->
 </p>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/> -->
 <!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange -->
 </p>
 <h2 align = "center">
