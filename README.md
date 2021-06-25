@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Sebastian!</h1>
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Sebastian!</h1>
 <h2 align = "center">
     You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
 </h2>
