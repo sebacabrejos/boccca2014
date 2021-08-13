@@ -41,6 +41,10 @@
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 </p>
 <h3 align = "center">
     Environment Tools
@@ -71,7 +75,7 @@
 </p>
 
 <p align = "center">
-    You can find these imgshields in this <a href='https://github.com/Ileriayo/markdown-badges'>repository</a>
+    You can find these image badges in these repositories, <a href='https://github.com/Ileriayo/markdown-badges'>here</a> and <a href='https://github.com/alexandresanlim/Badges4-README.md-Profile'>here</a>
 </p>
 
 
