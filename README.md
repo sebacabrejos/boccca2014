@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ocaml-f18e00.svg?style=for-the-badge&logo=ocaml&logoColor=white"/>
 </p>
 <h3 align = "center">
     Libraries, Frameworks, & Platforms
