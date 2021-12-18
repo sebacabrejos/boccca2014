@@ -1,11 +1,12 @@
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Sebastian!</h1>
+<h1 align="center">👋 Hey, I'm Sebastian!</h1>
 <h3 align = "center">
     You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
 </h3>
 <p align = "center">
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> -->
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425> -->
 <!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425> -->
-<!-- 👋 https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true -->
+<!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true -->
 <!-- https://github-readme-streak-stats-seb.herokuapp.com?user=boccca2014&theme=blood-dark -->
 </p>
 <p align = "center">
