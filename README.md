@@ -1,14 +1,11 @@
 <h1 align="center">👋 Hi, I'm Sebastian!</h1>
-<h3 align = "center">
-    You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
-</h3>
 <p align = "center">
 </p>
 <p align = "center">
 </p>
 
 <h2 align = "center">
-    My Programming Tools
+    Here are some of my favorite Programming Tools
 </h2>
 <h3 align = "center">
     Languages
@@ -74,6 +71,9 @@
     You can find these image badges in these repositories, <a href='https://github.com/Ileriayo/markdown-badges'>here</a> and <a href='https://github.com/alexandresanlim/Badges4-README.md-Profile'>here</a>
 </p>
 
+<!-- <h3 align = "center">
+    You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
+</h3> -->
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> -->
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425> -->
 <!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425> -->
