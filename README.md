@@ -1,18 +1,12 @@
-<h1 align="center">👋 Hey, I'm Sebastian!</h1>
+<h1 align="center">👋 Hi, I'm Sebastian!</h1>
 <h3 align = "center">
     You can learn more about my work at my 👉<a href="https://sebastiancabrejos.com">Personal Site</a>!
 </h3>
 <p align = "center">
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> -->
-<!--   <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425> -->
-<!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425> -->
-<!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true -->
-<!-- https://github-readme-streak-stats-seb.herokuapp.com?user=boccca2014&theme=blood-dark -->
 </p>
 <p align = "center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/> -->
-<!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange -->
 </p>
+
 <h2 align = "center">
     My Programming Tools
 </h2>
@@ -80,35 +74,10 @@
     You can find these image badges in these repositories, <a href='https://github.com/Ileriayo/markdown-badges'>here</a> and <a href='https://github.com/alexandresanlim/Badges4-README.md-Profile'>here</a>
 </p>
 
-
-
-<!-- ### Hi there 👋 -->
-<!--
-**Boccca2014/boccca2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-<img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/> 
--->
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> -->
+<!--   <img src = "https://github-readme-stats.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true" width = 425> -->
+<!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=boccca2014&theme=blood-dark" width = 425> -->
+<!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api?username=boccca2014&show_icons=true&theme=react&count_private=true -->
+<!-- https://github-readme-streak-stats-seb.herokuapp.com?user=boccca2014&theme=blood-dark -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange"/> -->
+<!-- https://github-readme-stats-jf5xsiewf-boccca2014.vercel.app/api/top-langs/?username=boccca2014&layout=compact&theme=slateorange -->
